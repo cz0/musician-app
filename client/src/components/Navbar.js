@@ -18,10 +18,10 @@ export default class Navbar extends Component {
             <div className="navbar-item">
               <div className="buttons">
                 <a href="/register" className="button is-primary">
-                  <strong>Sign up</strong>
+                  <strong>Sign up here</strong>
                 </a>
                 <a href="/login" className="button is-light">
-                  Log in
+                  Log in here
                 </a>
               </div>
             </div>
